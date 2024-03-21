@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nguyenhuy0905
 - 👀 I’m interested in problem solving, and learning stuff, in general
-- 🌱 I’m currently learning C, and will probably learn Elixir next.
+- 🌱 I’m currently learning C, and will probably learn Elixir next. (edit: nevermind, I chose the hard path and learned Haskell).
 - 💞️ I haven't a clear idea what types of project I would like to work on. 
 - 📫 How to reach me: I will set up my social media later. Too lazy.
 - 😄 Pronouns: he/him
