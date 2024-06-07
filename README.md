@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @nguyenhuy0905
 
-[![nguyenhuy0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=tokyonight&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![nguyenhuy0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=tokyonight&show_icons=true&include_all_commits=true)
   
 A programmer who loves to reinvent the wheel.
 
