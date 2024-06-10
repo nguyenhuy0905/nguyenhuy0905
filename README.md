@@ -12,7 +12,7 @@ But he should probably find some more people to program with.
 
 ## :pencil: Editors
 
-[![My Editors](https://skillicons.dev/icons?i=neovim,vscodium,vim)](https://skillicons.dev)
+[![My Editors](https://skillicons.dev/icons?i=neovim,vscode,vim)](https://skillicons.dev)
 
 ## :wrench: Tools
 
