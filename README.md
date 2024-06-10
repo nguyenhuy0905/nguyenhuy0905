@@ -8,26 +8,15 @@ But he should probably find some more people to program with.
 
 ## :computer: Programming languages
 
-:sparkles: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) :sparkles:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-  
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+[![My Programming languages](https://skillicons.dev/icons?i=c,cpp,cs,cmake,bash)](https://skillicons.dev)
 
 ## :pencil: Editors
 
-:sparkles: ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white) :sparkles:
-  
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+[![My Editors](https://skillicons.dev/icons?i=neovim,vscode,vim)](https://skillicons.dev)
 
 ## :wrench: Tools
 
-:sparkles: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) :sparkles:
-  
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
+[![My Toolbox](https://skillicons.dev/icons?i=git,github,docker,cmake,sqlite,gtk)](https://skillicons.dev)
 
 ## :sparkles: Currently on
 
