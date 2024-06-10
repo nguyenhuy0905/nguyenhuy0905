@@ -16,7 +16,7 @@ But he should probably find some more people to program with.
 
 ## :wrench: Tools
 
-[![My Toolbox](https://skillicons.dev/icons?i=git,github,docker,cmake,sqlite,gtk)](https://skillicons.dev)
+[![My Toolbox](https://skillicons.dev/icons?i=git,github,docker,cmake,sqlite,gtk,dotnet)](https://skillicons.dev)
 
 ## :sparkles: Currently on
 
