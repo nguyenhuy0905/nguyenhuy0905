@@ -1,14 +1,31 @@
 # 👋 Hi, I’m @nguyenhuy0905
 
-![nguyenhuy0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=tokyonight&show_icons=true&include_all_commits=true)
-  
+![nguyenhuy0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=true&disable_animations=true)
+
+First year CS Major at Oberlin College.
+
 A programmer who loves to reinvent the wheel.
 
 But he should probably find some more people to program with.
 
 ## :computer: Programming languages
 
-[![My Programming languages](https://skillicons.dev/icons?i=c,cpp,cs,cmake,bash)](https://skillicons.dev)
+- Those that I use a lot
+
+[![My top Programming languages](https://skillicons.dev/icons?i=c,cpp,cs,cmake,bash,md)](https://skillicons.dev)
+
+- Those that I, technically, know how to use
+
+[![My bottom Programming languages](https://skillicons.dev/icons?i=java,lua)](https://skillicons.dev)
+
+- Those that I want to learn
+
+[![My wannabe Programming languages](https://skillicons.dev/icons?i=haskell,rust)](https://skillicons.dev)
+
+Here's a WakaTime card to show my lack of grass-touching.
+
+![Huy Nguyen's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&layout=compact&display_format=percent&langs_count=11&disable_animations=true)
+
 
 ## :pencil: Editors
 
@@ -16,16 +33,22 @@ But he should probably find some more people to program with.
 
 ## :wrench: Tools
 
-[![My Toolbox](https://skillicons.dev/icons?i=git,github,docker,cmake,sqlite,gtk,dotnet)](https://skillicons.dev)
+- Those that I use every-single-day
 
-## :sparkles: Currently on
+[![My favorite Toolbox](https://skillicons.dev/icons?i=git,github,neovim,vim,cmake)](https://skillicons.dev)
 
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+- Those that I use sometimes
+
+[![My not-as-favorite Toolbox](https://skillicons.dev/icons?i=docker,vscode,sqlite,gtk,dotnet)](https://skillicons.dev)
+
+- Those that I want to learn
+
+[![My wannabe Toolbox](https://skillicons.dev/icons?i=wasm)](https://skillicons.dev)
 
 ## :hammer: Projects
 
 **Currently working on**:
 
-[![Smoldb](https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuy0905&repo=smoldb)](https://github.com/nguyenhuy0905/smoldb)
+[![Smoldb](https://github-readme-stats.vercel.app/api/pin/?username=huynguyen-and-friend-projects&repo=smoldb)](https://github.com/huynguyen-and-friend-projects/smoldb)
 
 [![Simple utest](https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuy0905&repo=simple-utest)](https://github.com/nguyenhuy0905/simple-utest)
