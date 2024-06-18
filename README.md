@@ -45,6 +45,10 @@ Here's a WakaTime card to show my lack of grass-touching.
 
 [![My wannabe Toolbox](https://skillicons.dev/icons?i=wasm)](https://skillicons.dev)
 
+## :video_game: Video games
+
+- Definitely none.
+
 ## :hammer: Projects
 
 **Currently working on**:
