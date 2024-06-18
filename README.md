@@ -12,11 +12,11 @@ But he should probably find some more people to program with.
 
 - Those that I use a lot
 
-[![My top Programming languages](https://skillicons.dev/icons?i=c,cpp,cs,cmake,bash,md)](https://skillicons.dev)
+[![My top Programming languages](https://skillicons.dev/icons?i=c,cpp,cmake,bash,md)](https://skillicons.dev)
 
 - Those that I, technically, know how to use
 
-[![My bottom Programming languages](https://skillicons.dev/icons?i=java,lua)](https://skillicons.dev)
+[![My bottom Programming languages](https://skillicons.dev/icons?i=cs,java,lua)](https://skillicons.dev)
 
 - Those that I want to learn
 
