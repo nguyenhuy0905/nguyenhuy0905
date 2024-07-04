@@ -20,7 +20,7 @@ But he should probably find some more people to program with.
 
 - Those that I want to learn
 
-[![My wannabe Programming languages](https://skillicons.dev/icons?i=haskell,rust)](https://skillicons.dev)
+[![My wannabe Programming languages](https://skillicons.dev/icons?i=haskell,rust,go)](https://skillicons.dev)
 
 Here's a WakaTime card to show my lack of grass-touching.
 
