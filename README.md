@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @nguyenhuy0905
 
-![nguyenhuy0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=true&disable_animations=true)
+![nguyenhuy0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true)
 
 First year CS Major at Oberlin College.
 
