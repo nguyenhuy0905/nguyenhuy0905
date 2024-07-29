@@ -54,5 +54,3 @@ Here's a WakaTime card to show my lack of grass-touching.
 **Currently working on**:
 
 [![Smoldb](https://github-readme-stats.vercel.app/api/pin/?username=huynguyen-and-friend-projects&repo=smoldb)](https://github.com/huynguyen-and-friend-projects/smoldb)
-
-[![Simple utest](https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuy0905&repo=simple-utest)](https://github.com/nguyenhuy0905/simple-utest)
