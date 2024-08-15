@@ -22,11 +22,6 @@ But he should probably find some more people to program with.
 
 [![My wannabe Programming languages](https://skillicons.dev/icons?i=haskell,rust,go)](https://skillicons.dev)
 
-Here's a WakaTime card to show my lack of grass-touching.
-
-![Huy Nguyen's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&layout=compact&display_format=percent&langs_count=11&disable_animations=true)
-
-
 ## :pencil: Editors
 
 [![My Editors](https://skillicons.dev/icons?i=neovim,vscode,vim)](https://skillicons.dev)
