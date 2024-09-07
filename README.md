@@ -2,7 +2,7 @@
 
 ![nguyenhuy0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true)
 
-First year CS Major at Oberlin College.
+Year\[1\] CS Major at Oberlin College.
 
 A programmer who loves to reinvent the wheel.
 
