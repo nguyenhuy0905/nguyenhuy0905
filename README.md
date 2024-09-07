@@ -48,4 +48,5 @@ But he should probably find some more people to program with.
 
 **Currently working on**:
 
+[![RARE](https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuy0905&repo=rare)](https://github.com/nguyenhuy0905)
 [![Smoldb](https://github-readme-stats.vercel.app/api/pin/?username=huynguyen-and-friend-projects&repo=smoldb)](https://github.com/huynguyen-and-friend-projects/smoldb)
