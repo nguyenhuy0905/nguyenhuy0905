@@ -16,11 +16,11 @@ But he should probably find some more people to program with.
 
 - Those that I, technically, know how to use
 
-[![My bottom Programming languages](https://skillicons.dev/icons?i=cs,java,lua)](https://skillicons.dev)
+[![My bottom Programming languages](https://skillicons.dev/icons?i=cs,java,rust,lua)](https://skillicons.dev)
 
 - Those that I want to learn
 
-[![My wannabe Programming languages](https://skillicons.dev/icons?i=haskell,rust,go)](https://skillicons.dev)
+[![My wannabe Programming languages](https://skillicons.dev/icons?i=haskell,go)](https://skillicons.dev)
 
 ## :pencil: Editors
 
