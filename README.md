@@ -4,9 +4,9 @@
 
 Year\[1\] CS Major at Oberlin College.
 
-A programmer who loves to reinvent the wheel.
+Love exploring everyday technologies with random re-implementations.
 
-But he should probably find some more people to program with.
+Hate third party libraries.
 
 ## :computer: Programming languages
 
