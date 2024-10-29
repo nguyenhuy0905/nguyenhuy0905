@@ -12,33 +12,33 @@ But he should probably find some more people to program with.
 
 - Those that I use a lot
 
-[![My top Programming languages](https://skillicons.dev/icons?i=c,cpp,cmake,bash,md)](https://skillicons.dev)
+![My top Programming languages](https://skillicons.dev/icons?i=c,cpp,cmake,bash)
 
 - Those that I, technically, know how to use
 
-[![My bottom Programming languages](https://skillicons.dev/icons?i=cs,java,rust,lua)](https://skillicons.dev)
+![My bottom Programming languages](https://skillicons.dev/icons?i=cs,java,rust,lua,latex)
 
 - Those that I want to learn
 
-[![My wannabe Programming languages](https://skillicons.dev/icons?i=haskell,go)](https://skillicons.dev)
+![My wannabe Programming languages](https://skillicons.dev/icons?i=haskell,elixir,zig)
 
 ## :pencil: Editors
 
-[![My Editors](https://skillicons.dev/icons?i=neovim,vscode,vim)](https://skillicons.dev)
+![My Editors](https://skillicons.dev/icons?i=neovim,vscode,vim)
 
-## :wrench: Tools
+## :wrench: Tools and technologies
 
 - Those that I use every-single-day
 
-[![My favorite Toolbox](https://skillicons.dev/icons?i=git,github,neovim,vim,cmake)](https://skillicons.dev)
+![My favorite Toolbox](https://skillicons.dev/icons?i=linux,git,github,cmake)
 
 - Those that I use sometimes
 
-[![My not-as-favorite Toolbox](https://skillicons.dev/icons?i=docker,vscode,sqlite,gtk,dotnet)](https://skillicons.dev)
+![My not-as-favorite Toolbox](https://skillicons.dev/icons?i=docker,sqlite,gtk,dotnet,windows)
 
 - Those that I want to learn
 
-[![My wannabe Toolbox](https://skillicons.dev/icons?i=wasm)](https://skillicons.dev)
+![My wannabe Toolbox](https://skillicons.dev/icons?i=raspberrypi)
 
 ## :video_game: Video games
 
