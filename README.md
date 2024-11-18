@@ -34,7 +34,7 @@ Love exploring everyday technologies with random re-implementations.
 
 - Those that I use sometimes
 
-![My not-as-favorite Toolbox](https://skillicons.dev/icons?i=docker,sqlite,gtk,dotnet,windows)
+![My not-as-favorite Toolbox](https://skillicons.dev/icons?i=docker,sqlite,gtk,dotnet)
 
 - Those that I want to learn
 
