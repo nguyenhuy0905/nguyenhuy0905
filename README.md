@@ -6,7 +6,7 @@ Year\[1\] CS Major at Oberlin College.
 
 Love exploring everyday technologies with random re-implementations.
 
-Hate third party libraries.
+![nguyenhuy0905's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905)
 
 ## :computer: Programming languages
 
