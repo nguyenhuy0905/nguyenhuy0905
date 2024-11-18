@@ -6,7 +6,7 @@ Second-year CS Major at Oberlin College.
 
 Love exploring everyday technologies with random re-implementations.
 
-![nguyenhuy0905's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905)
+![nguyenhuy0905's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&theme=transparent&layout=compact&langs_count=10)
 
 ## :computer: Programming languages
 
