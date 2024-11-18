@@ -6,9 +6,20 @@ Love exploring everyday technologies with random re-implementations.
 
 ## 📊 Some stats
 
-![nguyenhuy0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true)
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=dark&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=default&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img/>
+</picture>
+<br>
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&theme=dark&layout=compact&langs_count=10" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&theme=light&layout=compact&langs_count=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img/>
+</picture>
 
-![nguyenhuy0905's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&theme=transparent&layout=compact&langs_count=10)
+
+<!--![nguyenhuy0905's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&theme=transparent&layout=compact&langs_count=10)-->
 
 ## :computer: Programming languages
 
