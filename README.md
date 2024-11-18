@@ -1,10 +1,12 @@
 # 👋 Hi, I’m @nguyenhuy0905
 
-![nguyenhuy0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true)
-
 Second-year CS Major at Oberlin College.
 
 Love exploring everyday technologies with random re-implementations.
+
+## 📊 Some stats
+
+![nguyenhuy0905's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true)
 
 ![nguyenhuy0905's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&theme=transparent&layout=compact&langs_count=10)
 
