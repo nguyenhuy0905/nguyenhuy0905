@@ -29,7 +29,7 @@ Love exploring everyday technologies with random re-implementations.
 
 - Those that I, technically, know how to use
 
-![My bottom Programming languages](https://skillicons.dev/icons?i=cs,java,rust,lua,latex)
+![My bottom Programming languages](https://skillicons.dev/icons?i=cs,java,rust,lua)
 
 - Those that I want to learn
 
