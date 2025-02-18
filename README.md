@@ -7,7 +7,7 @@ Love exploring everyday technologies with random re-implementations.
 ## 📊 Some stats
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=dark&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=catppuccin_mocha&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true" media="(prefers-color-scheme: dark)"/>
   <source srcset="https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=default&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img/>
 </picture>
