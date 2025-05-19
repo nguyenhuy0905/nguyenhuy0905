@@ -2,48 +2,31 @@
 
 Second-year CS Major at Oberlin College.
 
-Love exploring everyday technologies with random re-implementations.
-
-## 📊 Some stats
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=catppuccin_mocha&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=nguyenhuy0905&theme=default&show_icons=true&include_all_commits=true&hide_rank=false&disable_animations=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img/>
-</picture>
-<br>
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&theme=dark&layout=compact&langs_count=10" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&theme=light&layout=compact&langs_count=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img/>
-</picture>
-
-
-<!--![nguyenhuy0905's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nguyenhuy0905&theme=transparent&layout=compact&langs_count=10)-->
+Love exploring everyday technologies with random re-implementations that are abandoned halfway through.
 
 ## :computer: Programming languages
 
 - Those that I use a lot
 
-![My top Programming languages](https://skillicons.dev/icons?i=c,cpp,cmake,bash)
+![My top Programming languages](https://skillicons.dev/icons?i=c,cpp,rust)
 
 - Those that I, technically, know how to use
 
-![My bottom Programming languages](https://skillicons.dev/icons?i=cs,java,rust,lua)
+![My bottom Programming languages](https://skillicons.dev/icons?i=cs,java,lua)
 
 - Those that I want to learn
 
-![My wannabe Programming languages](https://skillicons.dev/icons?i=haskell,elixir,zig)
+![My wannabe Programming languages](https://skillicons.dev/icons?i=haskell,zig,python)
 
 ## :pencil: Editors
 
-![My Editors](https://skillicons.dev/icons?i=neovim,vscode,vim)
+![My Editors](https://skillicons.dev/icons?i=neovim,vim)
 
 ## :wrench: Tools and technologies
 
 - Those that I use every-single-day
 
-![My favorite Toolbox](https://skillicons.dev/icons?i=linux,git,github,cmake)
+![My favorite Toolbox](https://skillicons.dev/icons?i=cmake)
 
 - Those that I use sometimes
 
@@ -51,13 +34,14 @@ Love exploring everyday technologies with random re-implementations.
 
 - Those that I want to learn
 
-![My wannabe Toolbox](https://skillicons.dev/icons?i=raspberrypi)
+![My wannabe Toolbox](https://skillicons.dev/icons?i=ansible)
 
 ## :video_game: Video games
 
-- Definitely none.
+- Crusader Kings (both 2 and 3) but I don't have the money to buy them.
 
 ## :hammer: Projects
 
 [![RARE](https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuy0905&repo=rare)](https://github.com/nguyenhuy0905/rare)
+[![suslang](https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuy0905&repo=suslang)](https://github.com/nguyenhuy0905/suslang)
 [![Tinydb](https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuy0905&repo=tinydb)](https://github.com/nguyenhuy0905/tinydb)
